@@ -1,0 +1,2 @@
+# ResearchPharma
+Researching pharmaceutical market
